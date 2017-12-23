@@ -1,6 +1,5 @@
 /**
  *
- * @author Juliana Carvalho 
  * CS472 - Computer Architecture (Fall 2017)
  *         October3rd, 2017
  */
